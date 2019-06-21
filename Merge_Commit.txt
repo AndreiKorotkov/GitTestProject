@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1 Message
+=======
+2 Message
+>>>>>>> develop
